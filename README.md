@@ -1,2 +1,2 @@
 # hello-world
-the first repoo
+Hello! I'm Nikita!
